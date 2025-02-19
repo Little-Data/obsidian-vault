@@ -1,6 +1,6 @@
 这是我的Obsidian笔记仓库。
 
-This is my Obsidian notes repository。
+This is my Obsidian notes repository.
 
 [Obsidian](https://obsidian.md)是一款跨平台的免费Markdown笔记软件，它完全可以离线保存所做的笔记为`.md`文件在设备上。
 
