@@ -8,13 +8,14 @@ tags:
   - Skype
 ---
  **[Skype](https://www.appinn.com/tag/skype/)** 将于 2025 年 5 月退役，替代品是 Microsoft Teams，用户可以使用 Skype 账号登录 Teams。@[Appinn](https://www.appinn.com/skype-goodbye/)
-![[/images/微软将关闭有22年历史的网络电话工具Skype/0b94fc5ce71550bfb649e10a1ade3b83_MD5.jpg]]
+ 
+![](/images/微软将关闭有22年历史的网络电话工具Skype/0b94fc5ce71550bfb649e10a1ade3b83_MD5.jpg)
 
 微软已经在 Skype [官网](https://www.skype.com/en/)上明确表示：
 
 > Skype 将于 2025 年 5 月退役。从 2025 年 3 月开始，您将能够使用 Skype 凭据登录 Microsoft Teams Free，并且您的聊天和联系人将立即为您准备好。
 
-![[/images/微软将关闭有22年历史的网络电话工具Skype/23e23b48fa1ba2ee18189118edbeb9bf_MD5.avif]]
+![](/images/微软将关闭有22年历史的网络电话工具Skype/23e23b48fa1ba2ee18189118edbeb9bf_MD5.avif)
 
 Skype 可能算作国内最没存在感的 Windows 自带应用，青小蛙见过非常多的电脑里在运行 Skype，但91%的人都不知道这是个啥，以及为什么会出现
 
