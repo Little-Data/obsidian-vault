@@ -6,4 +6,6 @@ This is my Obsidian notes repository.
 
 不用它收费的同步服务，可以尝试像我一样使用[GitHub Sync](https://github.com/kevinmkchin/Obsidian-GitHub-Sync)这个[^1]插件将文件同步至GitHub，也可以配合[Syncthing](https://syncthing.net)实现局域网多设备同步。
 
+不再保证能够在Github正常预览，请自行将仓库下载，然后使用Obsidian打开
+
 [^1]: 插件可以在应用内的插件市场里搜索GitHub Sync
